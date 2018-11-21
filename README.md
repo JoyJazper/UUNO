@@ -1,8 +1,8 @@
 # UUNO (PC/Android/IOS)
-#### Unity3D || C# || Incomplete.
+#### Unity3D || C# || Incomplete
 
 
-##Description
+## Description
 
  This project is a "multiplayer Cards game over LAN" type mobile and pc game made in Unity. This game has proper communications system between the players over LAN. The rules of the game are flexible which is a rather intresting feature. It is still not out for the downloads as the build is not over yet.
 
